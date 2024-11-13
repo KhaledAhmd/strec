@@ -1,0 +1,97 @@
+.strict{
+    background-image: url(images/headerbg.png);
+    height: 800px;
+   width: 1600px;
+   margin: 20px;
+
+    
+}
+.w{
+    margin: 10px 100px 20px 580px;
+   padding-top: 150px;
+   font-size: 120px;
+   color: white;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   text-transform: uppercase;
+}
+.e{
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+.q{
+    margin: 10px 100px 20px 700px;
+    border: 1px solid rgb(0, 255, 242);
+    width: 120px;
+    padding: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    border: radius 2px; 
+    
+   
+   
+ 
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.r{
+    text-align: center;
+}
+.t{
+    text-align: center;
+
+}
+.p{
+    background-color: white;
+
+}
+.p{
+    display: flex;
+    justify-content: space-evenly;
+}
+#m{
+ font-size: xx-large;
+}
+#r{
+    display: flex;
+    justify-content: space-evenly;
+}
+#t{
+    text-align: center;
+}
+#k{
+overflow: hidden;
+
+}
+.we{
+    float: left;
+    padding-left: 135px;
+}
+#z{
+    background-image: url(images/contactbg.png);
+    height: 600px;
+    width: 1600px;
+    margin: 20px;
+}
+#x{
+    background-color: rgba(6, 3, 39, 0.623);
+    height: 600px;
+    width: 1600px;
+
+    
+}
+#we{
+    margin-left: 40px;
+}
+.g{
+    color: white;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}
+.for{
+    padding: top 30px; ;
+}
